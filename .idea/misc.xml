@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/drawable/radius_item.xml" value="0.184" />
+        <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/drawable/raduis_grilview.xml" value="0.184" />
+        <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/layout/activity_item.xml" value="0.16666666666666666" />
         <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/layout/activity_main_screen02.xml" value="0.22" />
+        <entry key="..\:/ThucHanh3/THAdrioid/18086981_DinhDiepVuong/app/src/main/res/layout/item_girlview.xml" value="0.22" />
       </map>
     </option>
   </component>
