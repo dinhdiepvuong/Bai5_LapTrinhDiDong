@@ -28,7 +28,7 @@ public class Screen02Adapter extends BaseAdapter {
     @Override
     public int getCount() {
         if(listFilter.size() !=0 && !listFilter.isEmpty()){
-            listFilter.size();
+            return listFilter.size();
         }
         return 0;
     }
