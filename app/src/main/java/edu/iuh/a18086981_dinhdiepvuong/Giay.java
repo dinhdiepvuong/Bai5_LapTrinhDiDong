@@ -1,6 +1,8 @@
 package edu.iuh.a18086981_dinhdiepvuong;
 
-public class Giay {
+import java.io.Serializable;
+
+public class Giay implements Serializable {
     private int imgGiay;
     private String nameGiay;
     private String priceGiay;
